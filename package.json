@@ -1,0 +1,41 @@
+{
+  "name": "express-rest",
+  "version": "1.0.0",
+  "description": "ReST  webservices implemented using nodejs, express and mongoos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninadingole/express-rest.git"
+  },
+  "keywords": [
+    "expressjs",
+    "REST",
+    "javascript",
+    "nodejs",
+    "node"
+  ],
+  "author": "Ninad Ingole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninadingole/express-rest/issues"
+  },
+  "homepage": "https://github.com/ninadingole/express-rest#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^4.7.5"
+  },
+  "devDependencies": {
+    "gulp-env": "^0.4.0",
+    "gulp-mocha": "^3.0.1",
+    "npm-env": "^2.1.0",
+    "should": "^11.1.2",
+    "sinon": "^1.17.7",
+    "supertest": "^2.0.1"
+  }
+}
