@@ -1,5 +1,10 @@
-# express-rest
+#Express-REST
 REST webservice implemented using nodejs, express and mongoos.
+##Run Locally
+1. Download and Install [Node](https://nodejs.org/en/download/)
+2. Run `npm install`.
+3. Run `npm start`
+
 
 Database: MongoDB
 Testing Framework used: supertest, sinon, mocha
