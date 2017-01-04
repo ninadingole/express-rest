@@ -6,10 +6,10 @@ REST webservice implemented using nodejs, express and mongoos.
 3. Run `npm start`
 
 
-Database: MongoDB
-Testing Framework used: supertest, sinon, mocha
-Build-tool: gulp
-REST testing : DHC Rest Client (Chrome)
+* Database: MongoDB
+* Testing Framework used: supertest, sinon, mocha
+* Build-tool: gulp
+* REST testing : DHC Rest Client (Chrome)
 
 ![](img/getBooks.PNG?raw=true,"Get All Books")
 
