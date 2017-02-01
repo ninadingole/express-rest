@@ -20,3 +20,8 @@ Show book by clicking Hyperlink.
 Please feel free to ask any doubt that you have and need further clarifications.
 
 *Happy Coding*
+
+<a href="https://scan.coverity.com/projects/ninadingole-express-rest">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/11636/badge.svg"/>
+</a>
