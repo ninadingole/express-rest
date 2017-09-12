@@ -11,11 +11,11 @@ REST webservice implemented using nodejs, express and mongoos.
 * Build-tool: gulp
 * REST testing : DHC Rest Client (Chrome)
 
-![](img/getBooks.PNG?raw=true,"Get All Books")
+![Get All Books](img/getBooks.PNG?raw=true)
 
 Show book by clicking Hyperlink.
 
-![](img/bookbyid.PNG?raw=true,"Book By Id")
+![Get Book By Id](img/bookbyid.PNG?raw=true)
 
 Please feel free to ask any doubt that you have and need further clarifications.
 
